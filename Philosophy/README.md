@@ -1,1 +1,1 @@
-https://cavno.github.io/philosophy/
+https://cavno.github.io/Reading_and_Thinking/Philosophy/
