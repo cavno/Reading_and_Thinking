@@ -40,6 +40,7 @@
 
 | 内容 | 访问链接 |
 | --- | --- |
+| 思维引擎 · 综合书斋（总入口） | https://cavno.github.io/Reading_and_Thinking/Thinking/ |
 | 公理化演绎 · 《几何原本》的整体思维方式 | https://cavno.github.io/Reading_and_Thinking/Thinking/ElementsOfGeometry/ |
 | 认知操作系统 · 逻辑史的系统论重构 | https://cavno.github.io/Reading_and_Thinking/Thinking/%E7%B3%BB%E7%BB%9F%E6%8E%A8%E6%BC%94/ |
 | 五步法 · 通用系统推演引擎 | https://cavno.github.io/Reading_and_Thinking/Thinking/%E9%80%9A%E7%94%A8%E4%BA%94%E6%AD%A5%E6%B3%95/ |
